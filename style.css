@@ -20,8 +20,8 @@ p {
    border-color: rgb(204, 0, 0);
     
    background-image: black;
-   background-image: linear-gradient(to bottom right, grey, rgba(0,0,0,0.2) 30%, rgba(0,0,0,0.2) 30%);
-   box-shadow: 1px 1px 1px black,
-               inset 2px 3px 5px rgba(0,0,0,0.5),
-               inset -2px -3px 5px rgba(255,255,255,0.5);
+   background-image: linear-gradient(to top left, grey, rgba(0,0,0,0.2) 30%, rgba(0,0,0,0.2) 30%);
+   box-shadow: 2px 2px 2px black,
+               inset 2px 2px 5px rgba(0,0,0,0.5),
+               inset -2px -2px 5px rgba(255,255,255,0.5);
    }
