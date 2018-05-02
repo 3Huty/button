@@ -4,30 +4,24 @@ html {
 
 /* Your CSS below here */
 
-.article{
-   
-    
-}
 
 p {
-    width: 210px;
-    height: 70px;
-    box-sizing: border-box;
-    padding: 25px;
-    text-align: center;
-    font-size: 1.1875rem; /* 19/16=1.1875 */
-    background-color: red;
-    color: red;
-    text-shadow: 1px 1px 1px black;
-    border-radius: 20px;
-    border: 1px solid;
-    border-color: rgb(204, 0, 0);
+   width: 210px;
+   height: 70px;
+   box-sizing: border-box;
+   padding: 25px;
+   text-align: center;
+   font-size: 1.1875rem; /* 19/16=1.1875 */
+   background-color: red;
+   color: red;
+   text-shadow: 1px 1px 1px black;
+   border-radius: 15px;
+   border: 1px solid;
+   border-color: rgb(204, 0, 0);
     
-    background-image: black;
-    background-image: linear-gradient(to bottom right, grey, rgba(0,0,0,0.2) 30%, rgba(0,0,0,0.2) 30%);
-    
-    box-shadow: 1px 1px 1px black,
-                inset 2px 3px 5px rgba(0,0,0,0.5),
-                inset -2px -3px 5px rgba(255,255,255,0.5);
-    
-}
+   background-image: black;
+   background-image: linear-gradient(to bottom right, grey, rgba(0,0,0,0.2) 30%, rgba(0,0,0,0.2) 30%);
+   box-shadow: 1px 1px 1px black,
+               inset 2px 3px 5px rgba(0,0,0,0.5),
+               inset -2px -3px 5px rgba(255,255,255,0.5);
+   }
